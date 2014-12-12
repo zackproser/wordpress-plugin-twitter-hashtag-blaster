@@ -1,0 +1,19 @@
+.blaster-pro-ad {
+	width: 500px;
+	border: 2px solid silver;
+	background-image: url('../img/blue-pattern.png');
+
+	padding: 10px;
+
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+
+
+}
+
+.blaster-pro-ad h3, .blaster-pro-ad td p {
+	text-align: center;
+	color: #fff;
+}
+
